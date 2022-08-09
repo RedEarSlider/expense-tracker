@@ -1,0 +1,21 @@
+# this is the requirements.txt file...
+
+#
+# DEVELOPMENT / PRODUCTION
+#
+
+os
+
+# python-dotenv
+# pgeocode
+pandas
+plotly
+plotly.express 
+requests
+#sendgrid==6.6.0
+
+#
+# TEST
+#
+
+pytest
