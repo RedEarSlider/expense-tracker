@@ -10,8 +10,7 @@ os
 # python-dotenv
 # pgeocode
 pandas
-plotly
-plotly.graph_objs
+plotly.express
 requests
 #sendgrid==6.6.0
 
