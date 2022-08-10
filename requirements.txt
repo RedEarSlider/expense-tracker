@@ -11,6 +11,7 @@ os
 # pgeocode
 pandas
 plotly
+plotly.graph_objs
 requests
 #sendgrid==6.6.0
 
